@@ -1,0 +1,6 @@
+{
+    "manifest_version": 3,
+  "name": "CineSkip",
+  "description": "Une simple extension pour changer plus facilement d'episode sur cinemay",
+  "version": "1.0.0"
+}
